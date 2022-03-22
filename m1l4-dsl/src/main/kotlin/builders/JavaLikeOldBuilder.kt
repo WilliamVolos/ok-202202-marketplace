@@ -50,5 +50,5 @@ fun main() {
         .withDrink(Drink.COFEE)
         .build()
 
-    println(breakfast)
+    println("Created: $breakfast")
 }

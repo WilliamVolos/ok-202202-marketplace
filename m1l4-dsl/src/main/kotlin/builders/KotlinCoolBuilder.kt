@@ -34,13 +34,4 @@ fun main() {
         drink = Drink.COFEE }
 
     println(myBreakfast)
-
-//    val myBreakfast = BreakfastBuilder().apply {
-//        eggs = 3
-//        bacon = true
-//        title = "Simple"
-//        drink = Drink.COFEE
-//    }.build()
-
-    // println(breakfast)
 }
